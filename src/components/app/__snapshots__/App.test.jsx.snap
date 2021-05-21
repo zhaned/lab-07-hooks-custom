@@ -1,0 +1,247 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing the app testing a list being shown 1`] = `
+<ul
+  aria-label="characters"
+>
+  <li>
+    <div>
+      <h3>
+        Analay
+      </h3>
+      <img
+        alt="Analay is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/c/c3/Analay.png/revision/latest?cb=20140430182201"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Arik
+      </h3>
+      <img
+        alt="Arik is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/6/6f/Arik.png/revision/latest?cb=20140808184002"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Baatar Jr.
+      </h3>
+      <img
+        alt="Baatar Jr. is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/4/45/Baatar_Jr..png/revision/latest?cb=20150409193510"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Bolin
+      </h3>
+      <img
+        alt="Bolin is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/d/d4/Bolin.png/revision/latest?cb=20150406232314"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Chan (Fire Nation admiral)
+      </h3>
+      <img
+        alt="Chan (Fire Nation admiral) is missing"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Chit Sang
+      </h3>
+      <img
+        alt="Chit Sang is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/8/81/Chit_Sang.png/revision/latest?cb=20121021000707"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Asami Sato
+      </h3>
+      <img
+        alt="Asami Sato is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Asami_Sato.png/revision/latest?cb=20150407110150"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Bum-Ju
+      </h3>
+      <img
+        alt="Bum-Ju is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Bum-Ju.png/revision/latest?cb=20140730103156"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Butler
+      </h3>
+      <img
+        alt="Butler is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/8/82/Butler.png/revision/latest?cb=20121107115044"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Broadsword man
+      </h3>
+      <img
+        alt="Broadsword man is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/9/98/Broadsword_man.png/revision/latest?cb=20130630171553"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Aiwei
+      </h3>
+      <img
+        alt="Aiwei is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/0/07/Aiwei_reveals_Korra%27s_lie.png/revision/latest?cb=20140808130551"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Animal control officer
+      </h3>
+      <img
+        alt="Animal control officer is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/5/58/Animal_control_officer.png/revision/latest?cb=20140504160655"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Chow
+      </h3>
+      <img
+        alt="Chow is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/5/51/Chow.png/revision/latest?cb=20140730173827"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Circus master
+      </h3>
+      <img
+        alt="Circus master is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/a/a5/Circus_master.png/revision/latest?cb=20130706153819"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Bujing
+      </h3>
+      <img
+        alt="Bujing is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/7/76/Bujing.png/revision/latest?cb=20130714152817"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Buttercup Raiko
+      </h3>
+      <img
+        alt="Buttercup Raiko is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/e/ed/Buttercup_Raiko.png/revision/latest?cb=20150409193510"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Cabbage merchant
+      </h3>
+      <img
+        alt="Cabbage merchant is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/2/2f/Cabbage_merchant.png/revision/latest?cb=20140112200908"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Calm man
+      </h3>
+      <img
+        alt="Calm man is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Calm_man.png/revision/latest?cb=20130814093330"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Chin
+      </h3>
+      <img
+        alt="Chin is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/6/6f/Chin_the_Great.png/revision/latest?cb=20140215111604"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+  <li>
+    <div>
+      <h3>
+        Chit Sang's friend
+      </h3>
+      <img
+        alt="Chit Sang's friend is missing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/6/6e/Chit_Sang%27s_friend.png/revision/latest?cb=20121120131829"
+        style="height: 150px;"
+      />
+    </div>
+  </li>
+</ul>
+`;

@@ -1,12 +1,15 @@
 import React from 'react';
 import Character from './Character';
 import { useCharacters } from '../../hooks/theCharacters.js';
+import Loading from '../Loading';
 
 const CharacterList = () => {
-  const characters = useCharacters();
+  const list = useCharacters();
+
+  if(list.loading) return <Loading />;
   return (
     <ul aria-label="characters">
-      {characters.map(({ name, photoUrl }) => (
+      {list.characters.map(({ name, photoUrl }) => (
         <li key={`${name}`}>
           <Character name={name} image={photoUrl} />
         </li>
